@@ -4,7 +4,7 @@
 
 #brew install --cask kitty
 
-brew install neovim
+#brew install neovim
 
 #brew install --cask firefox
 
@@ -19,3 +19,5 @@ brew install neovim
 #curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
 #brew install --cask dotnet-sdk
+
+brew install --cask mark-text
