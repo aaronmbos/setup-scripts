@@ -8,6 +8,8 @@
 
 #brew install --cask firefox
 
+brew install --cask visual-studio-code
+
 #brew install --cask sublime-text
 
 #brew install --cask azure-data-studio
@@ -20,4 +22,4 @@
 
 #brew install --cask dotnet-sdk
 
-brew install --cask mark-text
+# brew install --cask mark-text
