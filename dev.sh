@@ -8,7 +8,7 @@
 
 #brew install --cask firefox
 
-brew install --cask visual-studio-code
+#brew install --cask visual-studio-code
 
 #brew install --cask sublime-text
 
@@ -23,3 +23,8 @@ brew install --cask visual-studio-code
 #brew install --cask dotnet-sdk
 
 # brew install --cask mark-text
+
+#brew install ripgrep
+
+#brew install fd
+
