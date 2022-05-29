@@ -22,8 +22,6 @@
 
 #brew install --cask dotnet-sdk
 
-# brew install --cask mark-text
-
 #brew install ripgrep
 
 #brew install fd
